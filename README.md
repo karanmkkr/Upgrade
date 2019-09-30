@@ -1,6 +1,5 @@
 REST ASSURED REST API AUTOMATION
 
-TO RUN TESTS
-
-Please navigate to \regression-suite.xml
-and click run as TestNG tests
+TO RUN TESTS1
+1.	Please navigate to \regression-suite.xml
+2.	Click run as TestNG tests
